@@ -1,4 +1,4 @@
-# Producer-Consumer Pattern Demo
+# Threads
 
 This program demonstrates a producer-consumer pattern by creating a producer thread and a consumer thread with synchronized access to a buffer.
 
